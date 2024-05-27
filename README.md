@@ -1,8 +1,8 @@
-<h1 style="text-align: center;">Welcome to my Github profile! / Добро пожаловать в мой Github профиль!</h1>
+<h1 align="center">Welcome to my Github profile! / Добро пожаловать в мой Github профиль!</h1>
 
 <p> ♻🌐 Here we can find many intresting script. / Здесь Вы найдете много интересных скриптов. ♻🌐 </p>
 
-<h2 text-align="center">My skills:</h2>
+<h2 align="center">My skills:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,html,css,sass,js,babel,webpack" />

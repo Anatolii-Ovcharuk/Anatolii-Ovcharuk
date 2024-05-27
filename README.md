@@ -2,6 +2,13 @@
 
 <p> ♻🌐 Here we can find many intresting script. / Здесь Вы найдете много интересных скриптов. ♻🌐 </p>
 
+<h2 text-align="center">My skills:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,html,css,sass,js,babel,webpack" />
+  </a>
+</p>
+
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk
 - 👀 I’m interested in ...

@@ -5,9 +5,12 @@
 <h2 align="center">My skills:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,git,github,vscode,html,css,sass,js,babel,webpack" />
+    <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,git,github,html,css,sass,js,npm,babel,webpack" />
   </a>
 </p>
+
+<h3 align="center">My stats:</h3>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk

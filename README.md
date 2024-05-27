@@ -10,7 +10,9 @@
 </p>
 
 <h3 align="center">My stats:</h3>
-  <a align="center" href="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)">
+  <a href="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark" />
+  </a>
 
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk

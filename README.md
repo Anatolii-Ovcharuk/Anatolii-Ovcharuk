@@ -2,19 +2,19 @@
 
 <p> ♻🌐 Here we can find many intresting script. / Здесь Вы найдете много интересных скриптов. ♻🌐 </p>
 
-<h2 align="center">My skills:</h2>
+<h2 align="center">🏆 My skills:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,github,git,html,css,sass,js,npm,babel,webpack" />
   </a>
 </p>
 
-<h3 align="center">My stats:</h3>
+<h3 align="center">📊 My stats:</h3>
   <a href="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
-    <img src="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&card_width=400px&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,follower,following" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&card_width=400px&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&card_width=400px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&card_width=400px&langs_count=10" />
   </a>
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk

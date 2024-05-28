@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my Github profile!</h1>
-<h1 align="center">Добро пожаловать в мой Github профиль!</h1>
 
-<p> ♻🌐 Here we can find many intresting script. / Здесь Вы найдете много интересных скриптов. ♻🌐 </p>
+<p align="center"> ♻🌐 Here we can find many intresting script. / Здесь Вы найдете много интересных скриптов. ♻🌐 </p>
 
 <h2 align="center">🏆 My skills:</h2>
 <p align="center">

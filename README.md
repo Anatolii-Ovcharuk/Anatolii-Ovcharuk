@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my Github profile! / Добро пожаловать в мой Github профиль!</h1>
+<h1 align="center">Welcome to my Github profile! /n Добро пожаловать в мой Github профиль!</h1>
 
 <p> ♻🌐 Here we can find many intresting script. / Здесь Вы найдете много интересных скриптов. ♻🌐 </p>
 

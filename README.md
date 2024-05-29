@@ -10,12 +10,15 @@
 </p>
 
 <h3 align="center">📊 My stats:</h3>
+<p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&card_width=400px&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&card_width=400px&langs_count=10" />
   </a>
+</p>
+
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk
 - 👀 I’m interested in ...

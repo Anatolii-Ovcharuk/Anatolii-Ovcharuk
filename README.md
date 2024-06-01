@@ -4,24 +4,24 @@
 
 <h2 align="center">🏆 My skills:</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,github,git,html,css,sass,js,npm,babel,webpack" />
   </a>
 </p>
 
 <h2 align="center">📊 My stats:</h2>
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+  <a href="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&card_width=400px&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
   </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&card_width=400px&langs_count=10&layout=pie" />
   </a>
 </p>
 
 <h2 align="center">📑 My Certificate's:</h2>
 <p align="center">
-  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/responsive-web-design">
+  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/responsive-web-design" target="_blank">
     <img src="./Certificates/Certificate - Responsive Web Design (ENG).bmp" alt="Certificate - Responsive Web Design"/>
   </a>
 </p>

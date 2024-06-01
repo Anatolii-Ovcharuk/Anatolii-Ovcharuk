@@ -9,7 +9,7 @@
   </a>
 </p>
 
-<h3 align="center">📊 My stats:</h3>
+<h2 align="center">📊 My stats:</h2>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&card_width=400px&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />

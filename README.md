@@ -19,6 +19,13 @@
   </a>
 </p>
 
+<h2 align="center">📑 My Certificate's:</h2>
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/responsive-web-design">
+    <img src="./Certificate - Responsive Web Design (ENG).bmp" />
+  </a>
+</p>
+
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk
 - 👀 I’m interested in ...

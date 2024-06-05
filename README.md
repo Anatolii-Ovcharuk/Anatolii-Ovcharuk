@@ -22,7 +22,12 @@
 <h2 align="center">📑 My Certificate's:</h2>
 <p align="center">
   <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/responsive-web-design" target="_blank">
-    <img src="./Certificates/" alt="Certificate - Responsive Web Design"/>
+    <img src="./Certificates/Certificate - Responsive Web Design (ENG).jpg" alt="Certificate - Responsive Web Design"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures-v8" target="_blank">
+    <img src="./Certificates/Certificate - Java Script Algorithms and Data Structures (Beta, ENG).jpg" alt="Certificate - Java Script Algorithms and Data Structures"/>
   </a>
 </p>
 

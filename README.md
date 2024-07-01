@@ -33,7 +33,7 @@
 </p>
 <p align="center">
   <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/data-visualization" target="_blank">
-    <img src="./Certificates/Certificate - Data Visualization (ENG)" alt="Certificate - Data Visualization"/>
+    <img src="./Certificates/Certificate - Data Visualization (ENG).jpg" alt="Certificate - Data Visualization"/>
   </a>
 </p>
 

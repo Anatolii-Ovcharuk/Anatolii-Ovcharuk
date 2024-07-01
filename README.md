@@ -31,6 +31,11 @@
     <img src="./Certificates/Certificate - Java Script Algorithms and Data Structures (Beta, ENG).jpg" alt="Certificate - Java Script Algorithms and Data Structures"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/data-visualization" target="_blank">
+    <img src="./Certificates/Certificate - Data Visualization (ENG)" alt="Certificate - Data Visualization"/>
+  </a>
+</p>
 
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk

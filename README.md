@@ -3,6 +3,16 @@
 <p align="center"> ♻🌐 Here we can find many intresting script. / Здесь Вы найдете много интересных скриптов. ♻🌐 </p>
 <p align="center"><a align="center" target="_blank" href="https://anatolii-ovcharuk.github.io/JS-Module-Code/">https://anatolii-ovcharuk.github.io/JS-Module-Code/</a></p>
 
+<p align="center"> ♻🧱 My code in platform "Codepen". / Мой код на платформе "Codepen". ♻🧱 </p>
+<p align="center"><a align="center" target="_blank" href="https://codepen.io/Anatolii-Ovcharuk">https://codepen.io/Anatolii-Ovcharuk</a></p>
+
+<p align="center"> 👘🛠 My profile "Codewars" for training. / Мой профиль "Codewars" для тренировки. 👘🛠 </p>
+<p align="center"><a align="center" target="_blank" href="https://www.codewars.com/users/Anatolii-Ovcharuk">https://www.codewars.com/users/Anatolii-Ovcharuk</a></p>
+
+<p align="center"> 🎵🎙🎧 My created music here. / Моя созданная музыка здесь. 🎵🎙🎧 </p>
+<p align="center"><a align="center" target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/music">https://anatolii-ovcharuk.bandcamp.com/music</a></p>
+
+
 <h2 align="center">🏆 My skills:</h2>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">

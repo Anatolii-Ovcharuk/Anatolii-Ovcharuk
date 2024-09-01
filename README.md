@@ -47,6 +47,16 @@
     <img src="./Certificates/Certificate - Data Visualization (ENG).jpg" alt="Certificate - Data Visualization"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures" target="_blank">
+    <img src="./Certificates/Certificate - Legacy JavaScript Algorithms and Data Structures (ENG).jpg" alt="Certificate - Legacy JavaScript Algorithms and Data Structures"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/front-end-development-libraries" target="_blank">
+    <img src="./Certificates/Certificate - Front End Development Libraries (ENG).jpg" alt="Certificate - Front End Development Libraries"/>
+  </a>
+</p>
 
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk

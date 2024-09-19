@@ -1,8 +1,9 @@
 <h1 align="center">Welcome to my Github profile!</h1>
 
-<p align="center"> ♻🌐 Here we can find many intresting script. / Здесь Вы найдете много интересных скриптов. ♻🌐 </p>
+<p align="center"> ♻🌐 Here we can find many intresting script's and Component's (React). / Здесь Вы найдете много интересных скриптов и компонентов (React). ♻🌐 </p>
 <p align="center"><a align="center" target="_blank" href="https://anatolii-ovcharuk.github.io/JS-Module-Code/">https://anatolii-ovcharuk.github.io/JS-Module-Code/</a></p>
 <p align="center"><a align="center" target="_blank" href="https://github.com/Anatolii-Ovcharuk/Scripts">https://github.com/Anatolii-Ovcharuk/Scripts</a></p>
+<p align="center"><a align="center" target="_blank" href="https://github.com/Anatolii-Ovcharuk/Library-of-React-Components">https://github.com/Anatolii-Ovcharuk/Library-of-React-Components</a></p>
 
 <p align="center"> ♻🧱 My code in platform "Codepen". / Мой код на платформе "Codepen". ♻🧱 </p>
 <p align="center"><a align="center" target="_blank" href="https://codepen.io/Anatolii-Ovcharuk">https://codepen.io/Anatolii-Ovcharuk</a></p>

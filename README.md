@@ -14,9 +14,10 @@
 <p align="center"> 💎🎈 My realesed projects. / Мои реализованные проэкты. 💎🎈 </p>
 <p align="center"><a align="center" target="_blank" href="https://geoweather.cloudns.ch/">https://geoweather.cloudns.ch/</a></p>
 
-<p align="center" display="none"> 🎵🎙🎧 My created music here. / Моя созданная музыка здесь. 🎵🎙🎧 </p>
-<p align="center" display="none"><a align="center" target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/music">https://anatolii-ovcharuk.bandcamp.com/music</a></p>
-
+<!--
+<p align="center" > 🎵🎙🎧 My created music here. / Моя созданная музыка здесь. 🎵🎙🎧 </p>
+<p align="center" ><a align="center" target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/music">https://anatolii-ovcharuk.bandcamp.com/music</a></p>
+-->
 
 <h2 align="center">🏆 My skills:</h2>
 <p align="center">

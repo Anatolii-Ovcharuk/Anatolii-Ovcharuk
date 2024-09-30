@@ -15,11 +15,11 @@
 <p align="center">
   <!-- <p align="center">https://geoweather.ao-server.cloudns.ch/</p> -->
   <a align="center" target="_blank" href="https://geoweather.ao-server.cloudns.ch/">
-    <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="geoweather.ao-server.cloudns.ch" width="200" height="200"/>
+    <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="geoweather.ao-server.cloudns.ch" width="128" height="128"/>
   </a>
   <!-- <p align="center">https://ovcharukcompany.com/</p> -->
   <a align="center" target="_blank" href="https://ovcharukcompany.com/">
-    <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="200" height="200"/>
+    <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="128" height="128"/>
   </a>
 </p>
 

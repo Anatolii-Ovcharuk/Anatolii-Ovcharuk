@@ -12,7 +12,16 @@
 <p align="center"><a align="center" target="_blank" href="https://www.codewars.com/users/Anatolii-Ovcharuk">https://www.codewars.com/users/Anatolii-Ovcharuk</a></p>
 
 <p align="center"> 💎🎈 My realesed projects. / Мои реализованные проекты. 💎🎈 </p>
-<p align="center"><a align="center" target="_blank" href="https://geoweather.cloudns.ch/">https://geoweather.cloudns.ch/</a></p>
+<p align="center">
+  <!-- <p align="center">https://geoweather.ao-server.cloudns.ch/</p> -->
+  <a align="center" target="_blank" href="https://geoweather.ao-server.cloudns.ch/">
+    <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="geoweather.ao-server.cloudns.ch" width="200"/>
+  </a>
+  <!-- <p align="center">https://ovcharukcompany.com/</p> -->
+  <a align="center" target="_blank" href="https://ovcharukcompany.com/">
+    <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="200"/>
+  </a>
+</p>
 
 <!--
 <p align="center" > 🎵🎙🎧 My created music here. / Моя созданная музыка здесь. 🎵🎙🎧 </p>

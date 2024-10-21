@@ -22,9 +22,9 @@
     <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="200" height="200"/>
   </a>
   <!-- <p align="center">https://t.me/ai_grut_bot</p> -->
-  <a align="center" target="_blank" href="https://t.me/ai_grut_bot">
+<!--   <a align="center" target="_blank" href="https://t.me/ai_grut_bot">
     <img src="./QR Code/Realesed projects/QR Code  - AI Grut.jpg" alt="AI Grut Bot" width="200" height="200"/>
-  </a>
+  </a> -->
 </p>
 
 <!--

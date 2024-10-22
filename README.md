@@ -13,13 +13,13 @@
 
 <p align="center"> 💎🎈 My realesed projects. / Мои реализованные проекты. 💎🎈 </p>
 <p align="center">
-  <!-- <p align="center">https://geoweather.duckdns.org/</p> -->
-  <a align="center" target="_blank" href="https://geoweather.duckdns.org/">
-    <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="geoweather.duckdns.org" width="200" height="200"/>
-  </a>
   <!-- <p align="center">https://ovcharukcompany.com/</p> -->
   <a align="center" target="_blank" href="https://ovcharukcompany.com/">
     <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="200" height="200"/>
+  </a>
+  <!-- <p align="center">https://geoweather.duckdns.org/</p> -->
+  <a align="center" target="_blank" href="https://geoweather.duckdns.org/">
+    <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="geoweather.duckdns.org" width="200" height="200"/>
   </a>
   <!-- <p align="center">https://t.me/ai_grut_bot</p> -->
 <!--   <a align="center" target="_blank" href="https://t.me/ai_grut_bot">

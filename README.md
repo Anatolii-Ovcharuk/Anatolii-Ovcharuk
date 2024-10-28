@@ -1,4 +1,6 @@
 <h1 align="center">Welcome to my Github profile!</h1>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk&left_color=#666666&right_color=#f99999)
+
 
 <p align="center"> ♻🌐 Here we can find many intresting script's and Component's (React). / Здесь Вы найдете много интересных скриптов и компонентов (React). ♻🌐 </p>
 <p align="center"><a align="center" target="_blank" href="https://anatolii-ovcharuk.github.io/JS-Module-Code/">https://anatolii-ovcharuk.github.io/JS-Module-Code/</a></p>

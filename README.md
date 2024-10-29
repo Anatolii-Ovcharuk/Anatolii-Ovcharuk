@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to my Github profile!</h1>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#f99999)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000) -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000" alt="visitors"/>
 
 
 <p align="center"> ♻🌐 Here we can find many intresting script's and Component's (React). / Здесь Вы найдете много интересных скриптов и компонентов (React). ♻🌐 </p>

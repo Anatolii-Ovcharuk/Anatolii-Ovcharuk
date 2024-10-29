@@ -1,8 +1,15 @@
 <h1 align="center">Welcome to my Github profile!</h1>
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000) -->
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000" alt="visitors"/>
-<iframe class="bandcamp" scrolling="no" style="border: 0;width: 177px;height: 33px;" src="https://bandcamp.com/band_follow_button_classic/3264840929"></iframe>
-
+<!-- <iframe class="bandcamp" scrolling="no" style="border: 0;width: 177px;height: 33px;" src="https://bandcamp.com/band_follow_button_classic/3264840929"></iframe> -->
+<a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/follow_me">
+            <div class="classic-button" style="border: none;border-radius: 3px;color: #fff;background-color: #00A1C6;padding: 3px 5px;display: inline-block;font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;font-size: 13px;height: 17px;width: 150px;letter-spacing: 0;line-height: 17px;">
+                <svg width="17px" height="10px" viewBox="0 0 30 12">
+                    <polygon id="rhomboid" fill="#FFFFFF" points="0 15.6298057 8.46714648 0 26.5989311 0 18.1316254 15.6298057"></polygon>
+                </svg>
+                <span><strong>Follow</strong> <span>on Bandcamp</span></span>
+            </div>
+        </a>
 
 <p align="center"> ♻🌐 Here we can find many intresting script's and Component's (React). / Здесь Вы найдете много интересных скриптов и компонентов (React). ♻🌐 </p>
 <p align="center"><a align="center" target="_blank" href="https://anatolii-ovcharuk.github.io/JS-Module-Code/">https://anatolii-ovcharuk.github.io/JS-Module-Code/</a></p>

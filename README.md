@@ -1,19 +1,32 @@
 <h1 align="center">Welcome to my Github profile!</h1>
-<div style="display: flex; align-items: center; gap: 10px;">
+<!-- <div style="display: flex; align-items: center; gap: 10px;"> -->
     <!-- Visitor Badge -->
     <!-- https://visitor-badge.laobi.icu/ -->
     <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000) -->
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000" alt="visitors"/>
+<!--     <img src="https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000" alt="visitors"/> -->
     <!-- Bandcamp Follow Button -->
-    <a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/follow_me">
-       <div class="classic-button" style="border: none; border-radius: 3px; color: #fff; background-color: #00A1C6; padding: 3px 5px; display: inline-flex; align-items: center; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; height: 17px; width: 150px; letter-spacing: 0; line-height: 17px;">
-          <svg width="17px" height="10px" viewBox="0 0 30 12">
-              <polygon fill="#FFFFFF" points="0 15.6298057 8.46714648 0 26.5989311 0 18.1316254 15.6298057"></polygon>
-          </svg>
-          <span style="margin-left: 5px;"><strong>Follow</strong> <span>on Bandcamp</span></span>
-       </div>
-    </a>
-</div>
+<!--     <a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/follow_me"><span style="margin-left: 5px;"><strong>Follow</strong> <span>on Bandcamp</span></span></a> -->
+<!-- </div> -->
+
+<table>
+  <tr>
+    <td>
+      <!-- Visitor Badge -->
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000" alt="visitors"/>
+    </td>
+    <td>
+      <!-- Bandcamp Follow Button -->
+      <a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/follow_me">
+         <div style="border: none; border-radius: 3px; color: #fff; background-color: #00A1C6; padding: 3px 5px; display: inline-block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; letter-spacing: 0; line-height: 17px;">
+            <svg width="17px" height="10px" viewBox="0 0 30 12" style="vertical-align: middle;">
+                <polygon fill="#FFFFFF" points="0 15.6298057 8.46714648 0 26.5989311 0 18.1316254 15.6298057"></polygon>
+            </svg>
+            <span><strong>Follow</strong> <span>on Bandcamp</span></span>
+         </div>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center"> ♻🌐 Here we can find many intresting script's and Component's (React). / Здесь Вы найдете много интересных скриптов и компонентов (React). ♻🌐 </p>
 <p align="center"><a align="center" target="_blank" href="https://anatolii-ovcharuk.github.io/JS-Module-Code/">https://anatolii-ovcharuk.github.io/JS-Module-Code/</a></p>

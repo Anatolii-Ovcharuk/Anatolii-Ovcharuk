@@ -18,6 +18,10 @@
       <!-- Bandcamp Follow Button -->
       <a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/follow_me"><span><strong>Follow</strong> <span>on Bandcamp</span></span></a>
     </td>
+    <td>
+      <!-- Position -->
+      <p>Frontend developer (fullstuck in future)</p>
+    </td>
   </tr>
 </table>
 
@@ -48,17 +52,17 @@
   </a> -->
 </p>
 
-<!--
-<p align="center" > 🎵🎙🎧 My created music here. / Моя созданная музыка здесь. 🎵🎙🎧 </p>
-<p align="center" ><a align="center" target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/music">https://anatolii-ovcharuk.bandcamp.com/music</a></p>
--->
-
 <h2 align="center">🏆 My skills:</h2>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,codepen,bash,github,cloudflare,git,html,css,sass,js,d3,npm,babel,webpack,react,redux" />
   </a>
 </p>
+
+<!--
+<p align="center" > 🎵🎙🎧 My created music here. / Моя созданная музыка здесь. 🎵🎙🎧 </p>
+<p align="center" ><a align="center" target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/music">https://anatolii-ovcharuk.bandcamp.com/music</a></p>
+-->
 
 <h2 align="center">📊 My stats:</h2>
 <p align="center">

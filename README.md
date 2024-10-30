@@ -16,14 +16,7 @@
     </td>
     <td>
       <!-- Bandcamp Follow Button -->
-      <a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/follow_me">
-         <div style="border: none; border-radius: 3px; color: #fff; background-color: #00A1C6; padding: 3px 5px; display: inline-block; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 13px; letter-spacing: 0; line-height: 17px;">
-            <svg width="17px" height="10px" viewBox="0 0 30 12" style="vertical-align: middle;">
-                <polygon fill="#FFFFFF" points="0 15.6298057 8.46714648 0 26.5989311 0 18.1316254 15.6298057"></polygon>
-            </svg>
-            <span><strong>Follow</strong> <span>on Bandcamp</span></span>
-         </div>
-      </a>
+      <a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/follow_me"><span><strong>Follow</strong> <span>on Bandcamp</span></span></a>
     </td>
   </tr>
 </table>

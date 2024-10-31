@@ -15,12 +15,16 @@
       <img src="https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000" alt="visitors"/>
     </td>
     <td>
-      <!-- Bandcamp Follow Button -->
-      <a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/follow_me"><span><strong>Follow</strong> <span>on Bandcamp</span></span></a>
-    </td>
-    <td>
       <!-- Position -->
       <p>Frontend developer (fullstuck in future)</p>
+    </td>
+    <td>
+      <!-- Bandcamp Follow Button -->
+      <a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/">🎵 Bandcamp 🎧</a>
+    </td>
+        <td>
+      <!-- Codewars -->
+      <p align="center"><a align="center" target="_blank" href="https://www.codewars.com/users/Anatolii-Ovcharuk">👘 Codewars 🛠</a></p>
     </td>
   </tr>
 </table>
@@ -33,8 +37,8 @@
 <p align="center"> ♻🧱 My code in platform "Codepen". / Мой код на платформе "Codepen". ♻🧱 </p>
 <p align="center"><a align="center" target="_blank" href="https://codepen.io/Anatolii-Ovcharuk">https://codepen.io/Anatolii-Ovcharuk</a></p>
 
-<p align="center"> 👘🛠 My profile "Codewars" for training. / Мой профиль "Codewars" для тренировки. 👘🛠 </p>
-<p align="center"><a align="center" target="_blank" href="https://www.codewars.com/users/Anatolii-Ovcharuk">https://www.codewars.com/users/Anatolii-Ovcharuk</a></p>
+<!-- <p align="center"> 👘🛠 My profile "Codewars" for training. / Мой профиль "Codewars" для тренировки. 👘🛠 </p>
+<p align="center"><a align="center" target="_blank" href="https://www.codewars.com/users/Anatolii-Ovcharuk">https://www.codewars.com/users/Anatolii-Ovcharuk</a></p>  -->
 
 <p align="center"> 💎🎈 My realesed projects. / Мои реализованные проекты. 💎🎈 </p>
 <p align="center">
@@ -75,32 +79,34 @@
 </p>
 
 <h2 align="center">📑 My Certificate's:</h2>
-<p align="center">
+<!-- <p align="center"> -->
   <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/responsive-web-design" target="_blank">
-    <img src="./Certificates/Certificate - Responsive Web Design (ENG).jpg" alt="Certificate - Responsive Web Design"/>
+    <img src="./Certificates/Certificate - Responsive Web Design (ENG).jpg" alt="Certificate - Responsive Web Design" width="48%" />
   </a>
-</p>
-<p align="center">
+<!-- </p> -->
+<!-- <p align="center"> -->
   <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures-v8" target="_blank">
-    <img src="./Certificates/Certificate - Java Script Algorithms and Data Structures (Beta, ENG).jpg" alt="Certificate - Java Script Algorithms and Data Structures"/>
+    <img src="./Certificates/Certificate - Java Script Algorithms and Data Structures (Beta, ENG).jpg" alt="Certificate - Java Script Algorithms and Data Structures" width="48%" />
   </a>
-</p>
-<p align="center">
+<!-- </p> -->
+<!-- <p align="center"> -->
   <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/data-visualization" target="_blank">
-    <img src="./Certificates/Certificate - Data Visualization (ENG).jpg" alt="Certificate - Data Visualization"/>
+    <img src="./Certificates/Certificate - Data Visualization (ENG).jpg" alt="Certificate - Data Visualization" width="48%" />
   </a>
-</p>
-<p align="center">
+<!-- </p> -->
+<!-- <p align="center"> -->
   <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures" target="_blank">
-    <img src="./Certificates/Certificate - Legacy JavaScript Algorithms and Data Structures (ENG).jpg" alt="Certificate - Legacy JavaScript Algorithms and Data Structures"/>
+    <img src="./Certificates/Certificate - Legacy JavaScript Algorithms and Data Structures (ENG).jpg" alt="Certificate - Legacy JavaScript Algorithms and Data Structures" width="48%" />
   </a>
-</p>
-<p align="center">
+<!-- </p> -->
+<!-- <p align="center"> -->
   <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/front-end-development-libraries" target="_blank">
-    <img src="./Certificates/Certificate - Front End Development Libraries (ENG).jpg" alt="Certificate - Front End Development Libraries"/>
-  </a>
-</p>
+    <img src="./Certificates/Certificate - Front End Development Libraries (ENG).jpg" alt="Certificate - Front End Development Libraries" width="48%" />
+<!--   </a> -->
+<!-- </p> -->
 
+  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/front-end-development-libraries" target="_blank">
+    <img src="./Certificates/Certificate - Legacy Front End (ENG).jpg" alt="Certificate - Legacy Front End" width="48%" />
 
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk

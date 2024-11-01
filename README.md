@@ -16,7 +16,7 @@
     </td>
     <td>
       <!-- Position -->
-      <p>Frontend developer (fullstuck in future)</p>
+      <p align="center" color="red">Frontend developer (fullstuck in future)</p>
     </td>
     <td>
       <!-- Bandcamp Follow Button -->
@@ -81,7 +81,6 @@
 <h2 align="center">📑 My Certificate's:</h2>
 
 <table>
-    <!-- Строка с фотографией и ссылками -->
     <tr>
         <td>
         <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/responsive-web-design" target="_blank">
@@ -100,44 +99,59 @@
         </a>
             <table>
                 <tr>
-                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures-v8"" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures-v8" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
                     <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Java%20Script%20Algorithms%20and%20Data%20Structures%20(Beta%2C%20ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
                 </tr>
             </table>
         </td>
+        <td>
+          <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/data-visualization" target="_blank">
+            <img src="./Certificates/Certificate - Data Visualization (ENG).jpg" alt="Certificate - Data Visualization" width="100%" />
+          </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/data-visualization" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Data%20Visualization%20(ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+          <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures" target="_blank">
+        <img src="./Certificates/Certificate - Legacy JavaScript Algorithms and Data Structures (ENG).jpg" alt="Certificate - Legacy JavaScript Algorithms and Data Structures" width="100%" />
+          </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures%20(ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+          <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/front-end-development-libraries" target="_blank">
+            <img src="./Certificates/Certificate - Front End Development Libraries (ENG).jpg" alt="Certificate - Front End Development Libraries" width="100%" />
+          </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/front-end-development-libraries" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Front%20End%20Development%20Libraries%20(ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/legacy-front-end" target="_blank">
+                <img src="./Certificates/Certificate - Legacy Front End (ENG).jpg" alt="Certificate - Legacy Front End" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/legacy-front-end" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Legacy%20Front%20End%20(ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
+                </tr>
+            </table>
+        </td>       
     </tr>
 </table>
 
 
-
-
-
-<!-- <p align="center"> -->
-
-<!-- </p> -->
-<!-- <p align="center"> -->
-  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures-v8" target="_blank">
-    <img src="./Certificates/Certificate - Java Script Algorithms and Data Structures (Beta, ENG).jpg" alt="Certificate - Java Script Algorithms and Data Structures" width="48%" />
-  </a>
-<!-- </p> -->
-<!-- <p align="center"> -->
-  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/data-visualization" target="_blank">
-    <img src="./Certificates/Certificate - Data Visualization (ENG).jpg" alt="Certificate - Data Visualization" width="48%" />
-  </a>
-<!-- </p> -->
-<!-- <p align="center"> -->
-  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures" target="_blank">
-    <img src="./Certificates/Certificate - Legacy JavaScript Algorithms and Data Structures (ENG).jpg" alt="Certificate - Legacy JavaScript Algorithms and Data Structures" width="48%" />
-  </a>
-<!-- </p> -->
-<!-- <p align="center"> -->
-  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/front-end-development-libraries" target="_blank">
-    <img src="./Certificates/Certificate - Front End Development Libraries (ENG).jpg" alt="Certificate - Front End Development Libraries" width="48%" />
-<!--   </a> -->
-<!-- </p> -->
-
-  <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/legacy-front-end" target="_blank">
-    <img src="./Certificates/Certificate - Legacy Front End (ENG).jpg" alt="Certificate - Legacy Front End" width="48%" />
 
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk

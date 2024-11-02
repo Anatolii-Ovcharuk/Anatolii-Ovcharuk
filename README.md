@@ -35,24 +35,24 @@
 <table>
     <tr>
         <td>
-        <a href="https://ovcharukcompany.com/" target="_blank">
-            <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="200px" />
+        <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20OVCHARUK%20Company.png" target="_blank">
+            <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="126px" />
         </a>
             <table>
                 <tr>
                     <td><a href="https://ovcharukcompany.com/" target="_blank"><p align="center">Open Website</p></a></td>
-                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20OVCHARUK%20Company.png" target="_blank"><p align="center">Open QR code</p></a></td>
+<!--                     <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20OVCHARUK%20Company.png" target="_blank"><p align="center">Open QR code</p></a></td> -->
                 </tr>
             </table>
         </td>
         <td>
-        <a href="https://geoweather.duckdns.org/" target="_blank">
-            <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="ovcharukcompany.com" width="200px" />
+        <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20GeoWeather.png" target="_blank">
+            <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="ovcharukcompany.com" width="126px" />
         </a>
             <table>
                 <tr>
                     <td><a href="https://geoweather.duckdns.org/" target="_blank"><p align="center">Open Website</p></a></td>
-                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20GeoWeather.png" target="_blank"><p align="center">Open QR code</p></a></td>
+<!--                     <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20GeoWeather.png" target="_blank"><p align="center">Open QR code</p></a></td> -->
                 </tr>
             </table>
         </td>

@@ -1,12 +1,4 @@
 <h1 align="center">Welcome to my Github profile!</h1>
-<!-- <div style="display: flex; align-items: center; gap: 10px;"> -->
-    <!-- Visitor Badge -->
-    <!-- https://visitor-badge.laobi.icu/ -->
-    <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000) -->
-<!--     <img src="https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000" alt="visitors"/> -->
-    <!-- Bandcamp Follow Button -->
-<!--     <a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/follow_me"><span style="margin-left: 5px;"><strong>Follow</strong> <span>on Bandcamp</span></span></a> -->
-<!-- </div> -->
 
 <table>
   <tr>
@@ -16,13 +8,17 @@
     </td>
     <td>
       <!-- Position -->
-      <p align="center" color="red">Frontend developer (fullstuck in future)</p>
+      <p align="center" color="red"><span style="color: red;">Frontend developer (fullstuck in future)</span></p>
     </td>
     <td>
       <!-- Bandcamp Follow Button -->
       <a target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/">🎵 Bandcamp 🎧</a>
     </td>
-        <td>
+    <td>
+      <!-- Codepen -->
+      <p align="center"><a align="center" target="_blank" href="https://codepen.io/Anatolii-Ovcharuk">♻ Codepen 🧱</a></p>
+    </td>      
+    <td>
       <!-- Codewars -->
       <p align="center"><a align="center" target="_blank" href="https://www.codewars.com/users/Anatolii-Ovcharuk">👘 Codewars 🛠</a></p>
     </td>
@@ -34,27 +30,49 @@
 <p align="center"><a align="center" target="_blank" href="https://github.com/Anatolii-Ovcharuk/Scripts">https://github.com/Anatolii-Ovcharuk/Scripts</a></p>
 <p align="center"><a align="center" target="_blank" href="https://github.com/Anatolii-Ovcharuk/Library-of-React-Components">https://github.com/Anatolii-Ovcharuk/Library-of-React-Components</a></p>
 
-<p align="center"> ♻🧱 My code in platform "Codepen". / Мой код на платформе "Codepen". ♻🧱 </p>
-<p align="center"><a align="center" target="_blank" href="https://codepen.io/Anatolii-Ovcharuk">https://codepen.io/Anatolii-Ovcharuk</a></p>
-
-<!-- <p align="center"> 👘🛠 My profile "Codewars" for training. / Мой профиль "Codewars" для тренировки. 👘🛠 </p>
-<p align="center"><a align="center" target="_blank" href="https://www.codewars.com/users/Anatolii-Ovcharuk">https://www.codewars.com/users/Anatolii-Ovcharuk</a></p>  -->
 
 <p align="center"> 💎🎈 My realesed projects. / Мои реализованные проекты. 💎🎈 </p>
-<p align="center">
+<table>
+    <tr>
+        <td>
+        <a href="https://ovcharukcompany.com/" target="_blank">
+            <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="100%" />
+        </a>
+            <table>
+                <tr>
+                    <td><a href="https://ovcharukcompany.com/" target="_blank"><p align="center">Open Website</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20OVCHARUK%20Company.png" target="_blank"><p align="center">Open QR code</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+        <a href="https://geoweather.duckdns.org/" target="_blank">
+            <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="ovcharukcompany.com" width="100%" />
+        </a>
+            <table>
+                <tr>
+                    <td><a href="https://geoweather.duckdns.org/" target="_blank"><p align="center">Open Website</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20GeoWeather.png" target="_blank"><p align="center">Open QR code</p></a></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+
+<!-- <p align="center"> -->
   <!-- <p align="center">https://ovcharukcompany.com/</p> -->
-  <a align="center" target="_blank" href="https://ovcharukcompany.com/">
+  <!-- <a align="center" target="_blank" href="https://ovcharukcompany.com/">
     <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="200" height="200"/>
-  </a>
+  </a> -->
   <!-- <p align="center">https://geoweather.duckdns.org/</p> -->
-  <a align="center" target="_blank" href="https://geoweather.duckdns.org/">
+  <!-- <a align="center" target="_blank" href="https://geoweather.duckdns.org/">
     <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="geoweather.duckdns.org" width="200" height="200"/>
-  </a>
+  </a> -->
   <!-- <p align="center">https://t.me/ai_grut_bot</p> -->
 <!--   <a align="center" target="_blank" href="https://t.me/ai_grut_bot">
     <img src="./QR Code/Realesed projects/QR Code  - AI Grut.jpg" alt="AI Grut Bot" width="200" height="200"/>
   </a> -->
-</p>
+<!-- </p> -->
 
 <h2 align="center">🏆 My skills:</h2>
 <p align="center">
@@ -63,10 +81,7 @@
   </a>
 </p>
 
-<!--
-<p align="center" > 🎵🎙🎧 My created music here. / Моя созданная музыка здесь. 🎵🎙🎧 </p>
-<p align="center" ><a align="center" target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/music">https://anatolii-ovcharuk.bandcamp.com/music</a></p>
--->
+
 
 <h2 align="center">📊 My stats:</h2>
 <p align="center">
@@ -88,8 +103,8 @@
         </a>
             <table>
                 <tr>
-                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/responsive-web-design" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
-                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Responsive%20Web%20Design%20(ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/responsive-web-design" target="_blank"><p align="center">Open on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Responsive%20Web%20Design%20(ENG).jpg" target="_blank"><p align="center">Open on Github</p></a></td>
                 </tr>
             </table>
         </td>
@@ -99,8 +114,8 @@
         </a>
             <table>
                 <tr>
-                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures-v8" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
-                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Java%20Script%20Algorithms%20and%20Data%20Structures%20(Beta%2C%20ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures-v8" target="_blank"><p align="center">Open on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Java%20Script%20Algorithms%20and%20Data%20Structures%20(Beta%2C%20ENG).jpg" target="_blank"><p align="center">Open on Github</p></a></td>
                 </tr>
             </table>
         </td>
@@ -110,8 +125,8 @@
           </a>
             <table>
                 <tr>
-                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/data-visualization" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
-                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Data%20Visualization%20(ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/data-visualization" target="_blank"><p align="center">Open on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Data%20Visualization%20(ENG).jpg" target="_blank"><p align="center">Open on Github</p></a></td>
                 </tr>
             </table>
         </td>
@@ -121,8 +136,8 @@
           </a>
             <table>
                 <tr>
-                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
-                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures%20(ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures" target="_blank"><p align="center">Open on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Legacy%20JavaScript%20Algorithms%20and%20Data%20Structures%20(ENG).jpg" target="_blank"><p align="center">Open on Github</p></a></td>
                 </tr>
             </table>
         </td>
@@ -132,8 +147,8 @@
           </a>
             <table>
                 <tr>
-                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/front-end-development-libraries" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
-                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Front%20End%20Development%20Libraries%20(ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/front-end-development-libraries" target="_blank"><p align="center">Open on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Front%20End%20Development%20Libraries%20(ENG).jpg" target="_blank"><p align="center">Open on Github</p></a></td>
                 </tr>
             </table>
         </td>
@@ -143,8 +158,8 @@
             </a>
             <table>
                 <tr>
-                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/legacy-front-end" target="_blank"><p align="center">Look on FreeCodeCamp</p></a></td>
-                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Legacy%20Front%20End%20(ENG).jpg" target="_blank"><p align="center">Look on Github</p></a></td>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/legacy-front-end" target="_blank"><p align="center">Open on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Legacy%20Front%20End%20(ENG).jpg" target="_blank"><p align="center">Open on Github</p></a></td>
                 </tr>
             </table>
         </td>       
@@ -152,6 +167,16 @@
 </table>
 
 
+<!-- <p align="center"> ♻🧱 My code in platform "Codepen". / Мой код на платформе "Codepen". ♻🧱 </p>
+<p align="center"><a align="center" target="_blank" href="https://codepen.io/Anatolii-Ovcharuk">https://codepen.io/Anatolii-Ovcharuk</a></p> -->
+
+<!-- <p align="center"> 👘🛠 My profile "Codewars" for training. / Мой профиль "Codewars" для тренировки. 👘🛠 </p>
+<p align="center"><a align="center" target="_blank" href="https://www.codewars.com/users/Anatolii-Ovcharuk">https://www.codewars.com/users/Anatolii-Ovcharuk</a></p>  -->
+
+<!--
+<p align="center" > 🎵🎙🎧 My created music here. / Моя созданная музыка здесь. 🎵🎙🎧 </p>
+<p align="center" ><a align="center" target="_blank" href="https://anatolii-ovcharuk.bandcamp.com/music">https://anatolii-ovcharuk.bandcamp.com/music</a></p>
+-->
 
 <!---
 - 👋 Hi, I’m @Anatolii-Ovcharuk

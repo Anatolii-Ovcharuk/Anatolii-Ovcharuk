@@ -1,4 +1,4 @@
-<img src="./SVG/welcome.swg" alt="Welcome to my Github profile!" max-width="100%">
+<img src="./SVG/welcome.svg" alt="Welcome to my Github profile!" width="100%" />
 <h1 align="center">Information about me:</h1>
 
 <table>
@@ -90,10 +90,10 @@
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&card_width=400px&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
-      height="380px" />
+      height="360px" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&card_width=400px&langs_count=10&layout=pie" height="380px" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&card_width=400px&langs_count=10&layout=pie" height="360px" />
   </a>
 </p>
 

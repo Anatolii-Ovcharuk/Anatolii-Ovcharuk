@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to my Github profile!</h1>
+<img src="./SVG/welcome.swg" alt="Welcome to my Github profile!" max-width="100%">
+<h1 align="center">Information about me:</h1>
 
 <table>
   <tr>
@@ -8,7 +9,10 @@
     </td>
     <td>
       <!-- Position -->
-      <p align="center" style="color: red;">Frontend developer (fullstuck in future)</p>
+      <p align="center" color="#ff0000" > 
+        <!-- Frontend developer (fullstuck in future). -->
+        $${\color{orange}Frontend \space developer \space (fullstuck \space in \space future). }$$
+      </p>
     </td>
     <td>
       <!-- Bandcamp Follow Button -->
@@ -25,34 +29,33 @@
   </tr>
 </table>
 
-<p align="center"> ♻🌐 Here we can find many intresting script's and Component's (React). / Здесь Вы найдете много интересных скриптов и компонентов (React). ♻🌐 </p>
+<p align="center"> ♻🌐 Here many intresting script's and Component's (React). / Здесь много интересных скриптов и компонентов (React). 🌐♻ </p>
 <p align="center"><a align="center" target="_blank" href="https://anatolii-ovcharuk.github.io/JS-Module-Code/">https://anatolii-ovcharuk.github.io/JS-Module-Code/</a></p>
 <p align="center"><a align="center" target="_blank" href="https://github.com/Anatolii-Ovcharuk/Scripts">https://github.com/Anatolii-Ovcharuk/Scripts</a></p>
 <p align="center"><a align="center" target="_blank" href="https://github.com/Anatolii-Ovcharuk/Library-of-React-Components">https://github.com/Anatolii-Ovcharuk/Library-of-React-Components</a></p>
 
 
-<p align="center"> 💎🎈 My realesed projects. / Мои реализованные проекты. 💎🎈 </p>
+<p align="center"> 🎈💎 My realesed projects. / Мои реализованные проекты. 💎🎈 </p>
 <table>
     <tr>
         <td>
         <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20OVCHARUK%20Company.png" target="_blank">
-            <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="114px" height="130px" />
+            <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="150px" height="170px" />
         </a>
             <table>
                 <tr>
-                    <td><a href="https://ovcharukcompany.com/" target="_blank"><p align="center">Open Website</p></a></td>
-<!--                     <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20OVCHARUK%20Company.png" target="_blank"><p align="center">Open QR code</p></a></td> -->
+                    <td width="150px"><a href="https://ovcharukcompany.com/" target="_blank"><p align="center">Open Website</p></a></td>
                 </tr>
             </table>
         </td>
         <td>
         <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20GeoWeather.png" target="_blank">
-            <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="ovcharukcompany.com" width="114px" height="130px" />
+            <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="ovcharukcompany.com" width="150px" height="170px" />
         </a>
             <table>
                 <tr>
-                    <td><a href="https://geoweather.duckdns.org/" target="_blank"><p align="center">Open Website</p></a></td>
-<!--                     <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20GeoWeather.png" target="_blank"><p align="center">Open QR code</p></a></td> -->
+                    <!-- https://geoweather.duckdns.org/ -->
+                    <td width="150px" ><a href="https://geoweather.ovcharuk.com/" target="_blank"><p align="center">Open Website</p></a></td>
                 </tr>
             </table>
         </td>
@@ -86,10 +89,11 @@
 <h2 align="center">📊 My stats:</h2>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&card_width=400px&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&card_width=400px&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
+      height="380px" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&card_width=400px&langs_count=10&layout=pie" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&card_width=400px&langs_count=10&layout=pie" height="380px" />
   </a>
 </p>
 

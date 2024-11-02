@@ -8,7 +8,7 @@
     </td>
     <td>
       <!-- Position -->
-      <p align="center" color="red"><span style="color: red;">Frontend developer (fullstuck in future)</span></p>
+      <p align="center" style="color: red;">Frontend developer (fullstuck in future)</p>
     </td>
     <td>
       <!-- Bandcamp Follow Button -->
@@ -36,7 +36,7 @@
     <tr>
         <td>
         <a href="https://ovcharukcompany.com/" target="_blank">
-            <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="100%" />
+            <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="200px" />
         </a>
             <table>
                 <tr>
@@ -47,7 +47,7 @@
         </td>
         <td>
         <a href="https://geoweather.duckdns.org/" target="_blank">
-            <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="ovcharukcompany.com" width="100%" />
+            <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="ovcharukcompany.com" width="200px" />
         </a>
             <table>
                 <tr>

@@ -10,8 +10,8 @@
     <td>
       <!-- Position -->
       <p align="center" color="#ff0000" > 
-        <!-- Frontend developer (fullstuck in future). -->
-        $${\color{orange}Frontend \space developer \space (fullstuck \space in \space future). }$$
+        Frontend developer (fullstuck in future).
+<!--         $${\color{orange}Frontend \space developer \space (fullstuck \space in \space future). }$$ -->
       </p>
     </td>
     <td>

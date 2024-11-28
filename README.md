@@ -39,6 +39,16 @@
 <table>
     <tr>
         <td>
+        <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20Personal%20Website.jpg" target="_blank">
+            <img src="./QR Code/Realesed projects/QR Code - Personal Website.jpg" alt="anatoli.ovcharuk.com" width="150px" height="170px" />
+        </a>
+            <table>
+                <tr>
+                    <td width="150px"><a href="https://anatoli.ovcharuk.com/" target="_blank"><p align="center">Open Website</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
         <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20OVCHARUK%20Company.png" target="_blank">
             <img src="./QR Code/Realesed projects/QR Code - OVCHARUK Company.png" alt="ovcharukcompany.com" width="150px" height="170px" />
         </a>

@@ -69,6 +69,16 @@
                 </tr>
             </table>
         </td>
+        <td>
+        <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20Radio_AO.jpg" target="_blank">
+            <img src="./QR Code/Realesed projects/QR Code - Radio_AO.jpg" alt="Radio AO" width="150px" height="170px" />
+        </a>
+            <table>
+                <tr>
+                    <td width="150px" ><a href="https://t.me/radio_ao" target="_blank"><p align="center">Open Telegram</p></a></td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 

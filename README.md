@@ -100,7 +100,7 @@
 <h2 align="center">🏆 My skills:</h2>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,codepen,bash,github,cloudflare,git,html,css,sass,js,ts,d3,npm,babel,webpack,react,redux" />
+    <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,codepen,bash,github,cloudflare,git,html,css,sass,js,ts,d3,npm,babel,webpack,react,redux,postman" />
   </a>
 </p>
 

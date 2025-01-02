@@ -80,7 +80,7 @@
             </table>
         </td>
         <td>
-        <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/free_api.jpg" target="_blank">
+        <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed projects/free_api.jpg" target="_blank">
             <img src="./QR Code/Realesed projects/free_api.jpg" alt="Radio AO" width="150px" height="170px" />
         </a>
             <table>

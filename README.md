@@ -79,6 +79,16 @@
                 </tr>
             </table>
         </td>
+        <td>
+        <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/free_api.jpg" target="_blank">
+            <img src="./QR Code/Realesed projects/free_api.jpg" alt="Radio AO" width="150px" height="170px" />
+        </a>
+            <table>
+                <tr>
+                    <td width="150px" ><a href="https://app.ovcharuk.com/api/" target="_blank"><p align="center">Open Server API</p></a></td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 

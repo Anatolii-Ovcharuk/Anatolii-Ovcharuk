@@ -1,4 +1,6 @@
-<img src="./SVG/welcome.svg" alt="Welcome to my Github profile!" width="100%" />
+
+
+<img src="./SVG/welcome.svg" alt="Welcome to my Github profile!" width="100%" /><!-- Collect visitors and scripts --><img src="https://app.ovcharuk.com/api/counters/visitor?data=https://github.com/Anatolii-Ovcharuk" width="0px" height="0px" />
 <h1 align="center">Information about me:</h1>
 
 <table>

@@ -112,8 +112,8 @@
 <h2 align="center">🏆 My skills:</h2>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,codepen,bash,github,cloudflare,git,html,css,sass,js,ts,d3,npm,babel,webpack,react,redux,postman" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=windows,powershell,vscode,codepen,bash,github,cloudflare,git,html,css,sass,js,ts,d3,npm,babel,webpack,react,redux,postman,mongodb,nodejs" />
+  </a> 
 </p>
 
 
@@ -198,7 +198,62 @@
                     <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Legacy%20Front%20End%20(ENG).jpg" target="_blank"><p align="center">Open on Github</p></a></td>
                 </tr>
             </table>
-        </td>       
+        </td>  
+        <td>
+            <a href="https://www.sololearn.com/certificates/CC-RC9RBYKV" target="_blank">
+                <img src="./Certificates/Certificate - Introduction to HTML.jpg" alt="Certificate - Introduction to HTML" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.sololearn.com/certificates/CC-RC9RBYKV" target="_blank"><p align="center">Open on Sololearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Introduction%20to%20HTML.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://www.sololearn.com/certificates/CC-QVUJ5L6Y" target="_blank">
+                <img src="./Certificates/Certificate - Introduction to CSS.jpg" alt="Certificate - Introduction to CSS" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.sololearn.com/certificates/CC-QVUJ5L6Y" target="_blank"><p align="center">Open on Sololearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Introduction%20to%20CSS.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://www.sololearn.com/certificates/CC-VWSIVPVI" target="_blank">
+                <img src="./Certificates/Certificate - Introduction to JavaScript.jpg" alt="Certificate - Introduction to JavaScript" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.sololearn.com/certificates/CC-VWSIVPVI" target="_blank"><p align="center">Open on Sololearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Introduction%20to%20JavaScript.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://www.sololearn.com/certificates/CC-IHZ2KLUA" target="_blank">
+                <img src="./Certificates/Certificate - JavaScript Intermediate.jpg" alt="Certificate - JavaScript Intermediate" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.sololearn.com/certificates/CC-IHZ2KLUA" target="_blank"><p align="center">Open on Sololearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20JavaScript%20Intermediate.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://www.sololearn.com/certificates/CC-KLE2WYNK" target="_blank">
+                <img src="./Certificates/Certificate - Tech for Everyone.jpg" alt="Certificate - Tech for Everyone" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.sololearn.com/certificates/CC-KLE2WYNK" target="_blank"><p align="center">Open on Sololearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Tech%20for%20Everyone.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 

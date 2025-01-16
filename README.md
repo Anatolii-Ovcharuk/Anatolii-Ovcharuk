@@ -155,6 +155,18 @@
                 </tr>
             </table>
         </td>
+        </td>
+        <td>
+        <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures-v8" target="_blank">
+          <img src="./Certificates/Certificate - Java Script Algorithms and Data Structures (ENG).jpg" alt="Certificate - Java Script Algorithms and Data Structures" width="100%" />
+        </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/javascript-algorithms-and-data-structures-v8" target="_blank"><p align="center">Open on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Java%20Script%20Algorithms%20and%20Data%20Structures%20(ENG).jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
         <td>
           <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/data-visualization" target="_blank">
             <img src="./Certificates/Certificate - Data Visualization (ENG).jpg" alt="Certificate - Data Visualization" width="100%" />
@@ -251,6 +263,28 @@
                 <tr>
                     <td><a href="https://www.sololearn.com/certificates/CC-KLE2WYNK" target="_blank"><p align="center">Open on Sololearn</p></a></td>
                     <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Tech%20for%20Everyone.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/back-end-development-and-apis" target="_blank">
+                <img src="./Certificates/Certificate - Back End Development and APIs (ENG).jpg" alt="Certificate - Back End Development and APIs" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.freecodecamp.org/certification/Anatolii_Ovcharuk/back-end-development-and-apis" target="_blank"><p align="center">Open on FreeCodeCamp</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Back%20End%20Development%20and%20APIs%20(ENG).jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>  
+        <td>
+            <a href="https://www.sololearn.com/certificates/CC-CH8DU9D9" target="_blank">
+                <img src="./Certificates/Certificate - Web Development.jpg" alt="Certificate - Web Development" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.sololearn.com/certificates/CC-CH8DU9D9" target="_blank"><p align="center">Open on Sololearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate%20-%20Web%20Development.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
                 </tr>
             </table>
         </td>

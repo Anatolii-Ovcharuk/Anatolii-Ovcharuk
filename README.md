@@ -288,6 +288,17 @@
                 </tr>
             </table>
         </td>
+        <td>
+            <a href="https://www.sololearn.com/certificates/CC-PBCXR3GP" target="_blank">
+                <img src="./Certificates/Certificate_Front-end_for_Beginners.jpg" alt="Certificate - Web Development" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.sololearn.com/certificates/CC-PBCXR3GP" target="_blank"><p align="center">Open on Sololearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate_Front-end_for_Beginners.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 

@@ -299,6 +299,28 @@
                 </tr>
             </table>
         </td>
+        <td>
+            <a href="https://www.sololearn.com/certificates/CC-1NIUWGNY" target="_blank">
+                <img src="./Certificates/Certificate_Introduction_to_SQL.jpg" alt="Certificate - Introduction to SQL" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.sololearn.com/certificates/CC-1NIUWGNY" target="_blank"><p align="center">Open on Sololearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate_Introduction_to_SQL.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://www.sololearn.com/certificates/CC-CZTZCZJW" target="_blank">
+                <img src="./Certificates/Certificate_SQL_Intermediate.jpg" alt="Certificate - SQL Intermediate" width="100%" />
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://www.sololearn.com/certificates/CC-CZTZCZJW" target="_blank"><p align="center">Open on Sololearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/Certificate_SQL_Intermediate.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 

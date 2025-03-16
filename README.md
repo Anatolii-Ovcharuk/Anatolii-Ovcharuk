@@ -321,6 +321,17 @@
                 </tr>
             </table>
         </td>
+        <td>
+            <a href="https://ipv6.he.net/certification/create_badge.php?pass_name=AnatoliiOvcharuk&amp;badge=2" target="_blank">
+                <img src="https://ipv6.he.net/certification/create_badge.php?pass_name=AnatoliiOvcharuk&amp;badge=2" style="border: 0; width: 100%; height: 210px" alt="IPv6 Certification Badge for Anatolii Ovcharuk"></img>
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://ipv6.he.net/certification/create_badge.php?pass_name=AnatoliiOvcharuk&amp;badge=2" target="_blank"><p align="center">Open on Hurricane</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/ipv6.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 

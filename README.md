@@ -42,11 +42,11 @@
     <tr>
         <td>
         <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20Personal%20Website.jpg" target="_blank">
-            <img src="./QR Code/Realesed projects/QR Code - Personal Website.jpg" alt="anatoli.ovcharuk.com" width="150px" height="170px" />
+            <img src="./QR Code/Realesed projects/QR Code - Personal Website.jpg" alt="anatolii.ovcharuk.com" width="150px" height="170px" />
         </a>
             <table>
                 <tr>
-                    <td width="150px"><a href="https://anatoli.ovcharuk.com/" target="_blank"><p align="center">Open Website</p></a></td>
+                    <td width="150px"><a href="http://anatolii.ovcharuk.com/" target="_blank"><p align="center">Open Website</p></a></td>
                 </tr>
             </table>
         </td>
@@ -67,7 +67,7 @@
             <table>
                 <tr>
                     <!-- https://geoweather.duckdns.org/ -->
-                    <td width="150px" ><a href="https://geoweather.ovcharuk.com/" target="_blank"><p align="center">Open Website</p></a></td>
+                    <td width="150px" ><a href="http://geoweather.ovcharuk.com/" target="_blank"><p align="center">Open Website</p></a></td>
                 </tr>
             </table>
         </td>
@@ -87,7 +87,7 @@
         </a>
             <table>
                 <tr>
-                    <td width="150px" ><a href="https://app.ovcharuk.com/api/" target="_blank"><p align="center">Open Server API</p></a></td>
+                    <td width="150px" ><a href="http://app.ovcharuk.com/api/" target="_blank"><p align="center">Open Server API</p></a></td>
                 </tr>
             </table>
         </td>

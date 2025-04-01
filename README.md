@@ -3,18 +3,12 @@
 <img src="./SVG/welcome.svg" alt="Welcome to my Github profile!" width="100%" /><!-- Collect visitors and scripts --><img src="https://app.ovcharuk.com/api/counters/visitor?data=https://github.com/Anatolii-Ovcharuk" width="0px" height="0px" />
 <h1 align="center">Information about me:</h1>
 
+      ✉ Email: anatolii@ovcharuk.com | 🔗 Website: https://anatolii.ovcharuk.com
 <table>
   <tr>
     <td>
       <!-- Visitor Badge -->
       <img src="https://visitor-badge.laobi.icu/badge?page_id=Anatolii-Ovcharuk.main&left_color=#666666&right_color=#520000" alt="visitors"/>
-    </td>
-    <td>
-      <!-- Position -->
-      <p align="center" color="#ff0000" > 
-        🔶 Fullstuck developer (frontend/backend).
-<!--         $${\color{orange}Frontend \space developer \space (fullstuck \space in \space future). }$$ -->
-      </p>
     </td>
     <td>
       <!-- Bandcamp Follow Button -->
@@ -30,6 +24,10 @@
     </td>
   </tr>
 </table>
+
+  <!-- Position -->
+  <p color="#ff0000" > 🔶 Fullstuck developer (frontend/backend developer).</p>
+  <p color="#ff0000" > 🔶 Server Administrator (specialized on Windows Server).</p>
 
 <p align="center"> ♻🌐 Here many intresting script's and Component's (React). / Здесь много интересных скриптов и компонентов (React). 🌐♻ </p>
 <p align="center"><a align="center" target="_blank" href="https://anatolii-ovcharuk.github.io/JS-Module-Code/">https://anatolii-ovcharuk.github.io/JS-Module-Code/</a></p>

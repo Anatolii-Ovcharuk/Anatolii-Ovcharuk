@@ -26,8 +26,8 @@
 </table>
 
   <!-- Position -->
-  <p color="#ff0000" > 🔶 Fullstuck developer (frontend/backend developer).</p>
-  <p color="#ff0000" > 🔶 Server Administrator (specialized on Windows Server).</p>
+  <p color="#ff0000" > 🔶 Fullstack developer (frontend/backend developer). | Разработчик полного цикла (Разработчик интерфейса/серверной части).</p>
+  <p color="#ff0000" > 🔶 Server Administrator (specialized on Windows Server). | Администратор серверов (Специализируется на Windows Server).</p>
 
 <p align="center"> ♻🌐 Here many intresting script's and Component's (React). / Здесь много интересных скриптов и компонентов (React). 🌐♻ </p>
 <p align="center"><a align="center" target="_blank" href="https://anatolii-ovcharuk.github.io/JS-Module-Code/">https://anatolii-ovcharuk.github.io/JS-Module-Code/</a></p>

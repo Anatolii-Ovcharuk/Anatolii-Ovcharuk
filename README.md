@@ -80,22 +80,22 @@
             </table>
         </td> -->
         <td>
+        <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed projects/QR_dev.png" target="_blank">
+            <img src="./QR Code/Realesed projects/QR_dev.png" alt="Instruments for Developers" width="150px" height="170px" />
+        </a>
+            <table>
+                <tr>
+                    <td width="150px" ><a href="http://dev.webcloud.top/" target="_blank"><p align="center">Open Instrument</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
         <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed projects/free_api.jpg" target="_blank">
             <img src="./QR Code/Realesed projects/free_api.jpg" alt="Radio AO" width="150px" height="170px" />
         </a>
             <table>
                 <tr>
                     <td width="150px" ><a href="http://app.ovcharuk.com/api/" target="_blank"><p align="center">Open Server API</p></a></td>
-                </tr>
-            </table>
-        </td>
-        <td>
-        <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed projects/QR_dev.png" target="_blank">
-            <img src="./QR Code/Realesed projects/QR_dev.png" alt="Instruments for Developers" width="150px" height="170px" />
-        </a>
-            <table>
-                <tr>
-                    <td width="150px" ><a href="http://app.ovcharuk.com/api/" target="_blank"><p align="center">Open Instrument</p></a></td>
                 </tr>
             </table>
         </td>

@@ -59,6 +59,17 @@
             </table>
         </td>
         <td>
+        <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR_MyResume.png" target="_blank">
+            <img src="./QR Code/Realesed projects/QR_MyResume.png" alt="myresume.webcloud.top" width="150px" height="170px" />
+        </a>
+            <table>
+                <tr>
+                    <!-- https://geoweather.duckdns.org/ -->
+                    <td width="150px" ><a href="https://myresume.webcloud.top/" target="_blank"><p align="center">Open Website</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
         <a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/QR%20Code/Realesed%20projects/QR%20Code%20-%20GeoWeather.png" target="_blank">
             <img src="./QR Code/Realesed projects/QR Code - GeoWeather.png" alt="ovcharukcompany.com" width="150px" height="170px" />
         </a>

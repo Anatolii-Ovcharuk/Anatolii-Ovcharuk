@@ -147,7 +147,7 @@
 
 
 
-<h2 align="center">📊 My stats:</h2>
+<!-- <h2 align="center">📊 My stats:</h2>
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anatolii-Ovcharuk&show_icons=true&card_width=400px&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" 
@@ -156,7 +156,7 @@
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anatolii-Ovcharuk&size_weight=0.5&count_weight=0.5&show_icons=true&theme=dark&card_width=400px&langs_count=10&layout=pie" height="340px" />
   </a>
-</p>
+</p> -->
 
 <h2 align="center">📑 My Certificate's:</h2>
 
@@ -358,6 +358,39 @@
                 <tr>
                     <td><a href="https://ipv6.he.net/certification/create_badge.php?pass_name=AnatoliiOvcharuk&amp;badge=2" target="_blank"><p align="center">Open on Hurricane</p></a></td>
                     <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/ipv6.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://simpli-web.app.link/e/XU3Eq3oNDZb" target="_blank">
+                <img src="./Certificates/CERTIFICATE_Generative_AI.jpg" style="border: 0; width: 100%; height: 210px" alt="Generative AI for Beginners"></img>
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://simpli-web.app.link/e/XU3Eq3oNDZb" target="_blank"><p align="center">Open on Simplilearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/CERTIFICATE_Generative_AI.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://simpli-web.app.link/e/dpjkYEwTDZb" target="_blank">
+                <img src="./Certificates/CERTIFICATE_Agent_AI.jpg" style="border: 0; width: 100%; height: 210px" alt="Agent AI for Beginners"></img>
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://simpli-web.app.link/e/dpjkYEwTDZb" target="_blank"><p align="center">Open on Simplilearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/CERTIFICATE_Agent_AI.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://simpli-web.app.link/e/HJsAuqlvEZb" target="_blank">
+                <img src="./Certificates/CERTIFICATE_Hugging_Face.jpg" style="border: 0; width: 100%; height: 210px" alt="Hugging Face Projects"></img>
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://simpli-web.app.link/e/HJsAuqlvEZb" target="_blank"><p align="center">Open on Simplilearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/CERTIFICATE_Hugging_Face.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
                 </tr>
             </table>
         </td>

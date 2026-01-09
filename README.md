@@ -394,6 +394,39 @@
                 </tr>
             </table>
         </td>
+        <td>
+            <a href="https://simpli-web.app.link/e/mmkTwYaqFZb" target="_blank">
+                <img src="./Certificates/CERTIFICATE_Front_End_Development.jpg" style="border: 0; width: 100%; height: 210px" alt="Introduction to Front End Development"></img>
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://simpli-web.app.link/e/mmkTwYaqFZb" target="_blank"><p align="center">Open on Simplilearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/CERTIFICATE_Front_End_Development.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://simpli-web.app.link/e/NnI2CJE6FZb" target="_blank">
+                <img src="./Certificates/CERTIFICATE_Free%20Full_Stack_Developer.jpg" style="border: 0; width: 100%; height: 210px" alt="Free Full Stack Developer Course"></img>
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://simpli-web.app.link/e/NnI2CJE6FZb" target="_blank"><p align="center">Open on Simplilearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/CERTIFICATE_Free%20Full_Stack_Developer.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <a href="https://simpli-web.app.link/e/LbVk6F6AIZb" target="_blank">
+                <img src="./Certificates/CERTIFICATE_Introduction_TypeScript.jpg" style="border: 0; width: 100%; height: 210px" alt="Introduction to TypeScript"></img>
+            </a>
+            <table>
+                <tr>
+                    <td><a href="https://simpli-web.app.link/e/LbVk6F6AIZb" target="_blank"><p align="center">Open on Simplilearn</p></a></td>
+                    <td><a href="https://raw.githubusercontent.com/Anatolii-Ovcharuk/Anatolii-Ovcharuk/main/Certificates/CERTIFICATE_Introduction_TypeScript.jpg" target="_blank"><p align="center">Open on Github</p></a></td>
+                </tr>
+            </table>
+        </td>
     </tr>
 </table>
 
